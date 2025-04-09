@@ -30,6 +30,6 @@ Um site simples e bonito para uma cafeteria fictícia. Com um layout receptivo e
 ### Versão Mobile
 
 <p align="center">
-  <img src="site-cafeteria/assets/mockups/cafeteria-mockup-menu-celular.png" width="30%" alt="Mockup Menu Mobile" />
-  <img src="site-cafeteria/assets/mockups/cafeteria-mockup-endereco-celular.png" width="30%" alt="Mockup Endereço Mobile" />
+  <img src="site-cafeteria/assets/mockups/cafeteria-mockup-menu-celular.png" width="45%" alt="Mockup Menu Mobile" />
+  <img src="site-cafeteria/assets/mockups/cafeteria-mockup-endereco-celular.png" width="45%" alt="Mockup Endereço Mobile" />
 </p>
