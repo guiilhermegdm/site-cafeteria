@@ -1,6 +1,6 @@
 # Site de uma Cafeteria
 
-Um site simples e elegante para uma cafeteria fictícia. Com um layout receptivo e seções para apresentar o cardápio e o ambiente da cafeteria.
+Um site simples e elegante desenvolvido para uma cafeteria. Com um layout receptivo e seções para apresentar o cardápio e o ambiente da cafeteria.
 
 ## Tecnologias
 
